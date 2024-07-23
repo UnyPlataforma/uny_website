@@ -13,5 +13,6 @@
         min-height: calc(100vh - 100px); /* 100px altura header */
         background-image: url("./img/imgCoverMovil.png");
         background-size:cover;
+        
     }
 </style>
