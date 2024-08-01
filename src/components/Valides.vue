@@ -16,11 +16,13 @@
         height: auto;
         display: flex;
         place-content: center;
-        padding: 5rem 0;
+
+        margin-bottom: 10rem;
         background-color: white;
 
         img{
             width: 70%;
+            max-width: 500px;
         }
     }
 </style>

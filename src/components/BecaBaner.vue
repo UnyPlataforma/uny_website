@@ -23,7 +23,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 4rem 0;
-        margin-bottom: 5rem;
+        margin-bottom: 10rem;
 
         background-color: #9d8a4bff;
         
@@ -34,7 +34,8 @@
         }
 
         img{
-            width: 100%;
+            width: 90%;
+            max-width: 500px;
             display: block;
             margin: 0 auto;
         }

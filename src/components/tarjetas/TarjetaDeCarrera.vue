@@ -28,4 +28,18 @@
         }
     }
 
+
+    @media screen and (min-width: 1440px) {
+        .containerTarjeta{
+        width: 400px;
+
+
+        img{
+            width: 100%;
+        }
+    }
+        
+
+    }
+
 </style>

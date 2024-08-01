@@ -21,6 +21,7 @@
 
 <style lang="css" scoped>
     .graduadosContainer{
+        margin-bottom: 10rem;
 
 
         h2{
@@ -30,17 +31,21 @@
             margin-bottom: 1rem;
         }
 
+
         img{
             width: 90%;
+            max-width: 500px;
             display: block;
             margin: 2rem auto;
-
         }
 
+        
         p{
             font-size: 1.8rem;
+            line-height: 3rem;
             text-align: center;
             color: #5e1010ff;
+            margin-bottom: 4rem;
         }
 
     }
