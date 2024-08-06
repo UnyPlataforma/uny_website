@@ -37,6 +37,10 @@
             max-width: 500px;
             display: block;
             margin: 2rem auto;
+
+            border-radius: 5px; /* Esquinas redondeadas */
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Aumenta la sombra al pasar el mouse */
+            background-color: #fff; /* Fondo blanco */
         }
 
         

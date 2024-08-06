@@ -1,5 +1,5 @@
 <script setup>
-    import MenuMovil from "./MenuMovil.vue"
+    import MenuResponsive from "./MenuResponsive.vue"
 </script>
 
 
@@ -14,7 +14,7 @@
 
         <!-- Area menuButton-->
         <div class="areaMenuButton">
-            <MenuMovil />
+            <MenuResponsive />
         </div>
     
     </header>
